@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="settings_button">Settings Button</string>
+    <string name="settings">Settings</string>
+    <string name="back_button">Back Button</string>
 </resources>
