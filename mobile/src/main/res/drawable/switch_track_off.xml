@@ -1,4 +1,0 @@
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#B0B0B0" /> <!-- Light gray color for the track -->
-    <corners android:radius="30dp" /> <!-- Round shape with radius -->
-</shape>
